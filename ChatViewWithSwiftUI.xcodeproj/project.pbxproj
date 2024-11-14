@@ -32,8 +32,8 @@
 		99E6D4C32CE4C6C60035025D = {
 			isa = PBXGroup;
 			children = (
-				99E6D4CE2CE4C6C60035025D /* ChatViewWithSwiftUI */,
 				99E6D4CD2CE4C6C60035025D /* Products */,
+				99E6D4CE2CE4C6C60035025D /* ChatViewWithSwiftUI */,
 			);
 			sourceTree = "<group>";
 		};
